@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Daniel Eliziario 🖐️
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=eliziariodm&show_icons=true&theme=dark&count_private=true" />
+<img align="left"  width="47%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=eliziariodm&show_icons=true&theme=dark&count_private=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliziariodm&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eliziariodm&layout=compact" />
 
 ## <br /><br /><br /><br /><br /><br /><br /><br /><br />Tecnologias que eu uso no meu dia
 
