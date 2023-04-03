@@ -19,6 +19,7 @@ Tenho o objetivo de aprender, aplicar e melhorar ainda mais meus conhecimentos c
 
 
 ## Aplicativos publicados na Google Play Store:
+- [Frases Diárias e Motivação](https://play.google.com/store/apps/details?id=br.com.eliziario.daily_thought)<br/>
 - [Horário do Bus Areia/Remígio](https://play.google.com/store/apps/details?id=br.com.eliziario.schedule_bus_pb)<br/>
 
 
